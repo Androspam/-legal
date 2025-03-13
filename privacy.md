@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: [3/13/2025]
+Last Updated: 3/13/2025
 
 Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your data when you play **מלך השווארמה**.
 
@@ -21,4 +21,4 @@ We take reasonable steps to protect your data but cannot guarantee absolute secu
 ## 5. Changes to This Policy
 We may update this Privacy Policy. Continued use of the game means you accept any changes.
 
-If you have any questions, contact us at [rfex.int@gmail.com].
+If you have any questions, contact us at rfex.int@gmail.com.
