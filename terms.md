@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last Updated: [3/13/2025]
+Last Updated: 3/13/2025
 
 Welcome to **מלך השווארמה**! By accessing or using our game, you agree to these Terms of Service. Please read them carefully.
 
