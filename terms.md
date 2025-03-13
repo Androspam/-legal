@@ -13,7 +13,7 @@ By playing **מלך השווארמה**, you agree to comply with these Terms. If
 - Any behavior that negatively impacts other users' experience may result in penalties or suspension of access.
 
 ## 3. Intellectual Property
-All content in **מלך השווארמה**, including graphics, sounds, game mechanics, and code, are owned by **[שם המפתח / החברה]** or its licensors.
+All content in **מלך השווארמה**, including graphics, sounds, game mechanics, and code, are owned by **Roye Fire Explosion** or its licensors.
 
 ## 4. Limitation of Liability
 We are not responsible for any loss of data, personal injury, or other damages arising from playing **מלך השווארמה**.
@@ -21,4 +21,4 @@ We are not responsible for any loss of data, personal injury, or other damages a
 ## 5. Changes to the Terms
 We may update these Terms at any time. Continued use of the game constitutes your acceptance of the revised Terms.
 
-If you have any questions, contact us at [rfex.int@gmail.com].
+If you have any questions, contact us at rfex.int@gmail.com.
